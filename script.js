@@ -52,7 +52,7 @@ const porjectDetail = [
   },
   {
     project: "Art Gallery ",
-    text: "The E-Commerce Art Gallery to Collect ..",
+    text: "The E-Commerce Art Gallery Collection of images ..",
     mainImage:
       "https://i.pinimg.com/originals/a2/21/84/a2218443b27823d024a03fc1b61a9832.jpg",
     subImage:
